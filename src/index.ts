@@ -43,7 +43,7 @@ function parseDay(day: string): number {
   return daysOfWeek[day];
 }
 
-export function extractSubjectDataFromHTML(html: string): Subject[] {
+export default function extractSubjectDataFromHTML(html: string): Subject[] {
   const $ = cheerio.load(html);
   const divTDK = $("#divTDK");
   const bodyTables = divTDK.find(".body-table");
