@@ -20,4 +20,4 @@ export interface Subject {
     availableSlot: string;
     lessons: Lesson[];
 }
-export default function extractSubjectDataFromHTML(html: string): Subject[];
+export declare function extractSubjectDataFromHTML(html: string): Subject[];
