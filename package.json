@@ -1,7 +1,7 @@
 {
   "name": "edusoftweb-parse-subject",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/tnowad/edusoftweb-parse-subject.git",
   "author": "Nguyen Minh Tuan <tnowad@gmail.com>",
   "license": "MIT",
