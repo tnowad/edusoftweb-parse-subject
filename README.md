@@ -5,7 +5,7 @@ A Node module for extracting subject data from HTML files.
 ## Installation
 
 ```bash
-npm install edusoftweb-parse-subject
+npm install tnowad/edusoftweb-parse-subject
 ```
 
 ## Usage
