@@ -1,4 +1,4 @@
-# edusoftweb-parse-subject
+# Edusoftweb Parse Subjects
 
 A Node module for extracting subject data from HTML files.
 
